@@ -11,3 +11,10 @@ This is a AI based car and pedestrian detection for road safety using OpenCV
 ## How the algorithm works behind?
 
 Using the Haar featue computer calculate the correlation bewteen pixels of the model and the object
+
+
+
+# Requirement 
+```
+pip install opencv-python
+```
